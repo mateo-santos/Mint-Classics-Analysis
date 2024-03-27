@@ -95,7 +95,8 @@ The following table shows the capacities for the scenario 1 after wd's inventory
 - In this scenario we are gonna give different packaging sizes to products depending on their scale and check if there's a need of reducing stock levels in order to close one warehouse and redistribute its inventory.
 
 **Sizes relations:**
-	S = S
+
+  S = S
 
   M = 2S
   
@@ -113,7 +114,7 @@ _Motorcycles:_
          
   S -> 1/24
   
-			 1/32
+       1/32
       
        1/50
          
@@ -131,21 +132,21 @@ _Cars:_
  
   L -> 1/10
   
-			 1/12
+       1/12
       
   M -> 1/18
   
-			 1/24
+       1/24
       
   S -> 1/32
   
-			 1/50
+       1/50
       
 _Trains:_
  
   L -> 1/18
   
-			 1/32
+       1/32
       
   M -> 1/50
   
